@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourav Mondal Shuvo</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate developer from Bangladesh</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/souravmondalshuvo.1024.official) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/souravmondalshuvo_official) 
