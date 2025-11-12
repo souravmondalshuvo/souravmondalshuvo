@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourav Mondal Shuvo</h1>
 <h3 align="center">A passionate developer from Bangladesh<br>
-                   CSE Undergrade at BRAC University</h3>
+                   CSE Undergrad at BRAC University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
