@@ -1,6 +1,7 @@
 <h1 align="center">👋Hello, I'm Sourav Mondal Shuvo</h1>
-<h4 align="center">🎓 CSE Undergraduate at **BRAC University** <br> 
-💻 Aspiring **Software Engineer & Web Developer** <br> 
+<h4 align="center">🎓 CSE Undergraduate at BRAC University <br> 
+💻 A Passionate Developer<br>
+🌍 Proudly from <span style="color: green;">Bangla</span><span style="color: red;">desh</span><br>
 🎵 Musician | Composer | Tech Enthusiast</h4>
 
 <h4 align="center">
