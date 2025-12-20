@@ -42,7 +42,6 @@ Full-stack web application (currently learning & building)
 ---
 [![](https://visitcount.itsvg.in/api?id=souravmondalshuvo&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/souravmondalshuvo.1024.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="souravmondalshuvo.1024.official" height="30" width="40" /></a>
