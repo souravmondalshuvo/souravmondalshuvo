@@ -1,11 +1,7 @@
 <h1 align="center">👋Hello, I'm Sourav Mondal Shuvo</h1>
 <h4 align="center">🎓 CSE Undergraduate at BRAC University <br> 
 💻 A Passionate Developer<br>
-🌍 Proudly from <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=16A34A&width=120&lines=বাংলা" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=DC2626&width=120&lines=দেশ" />
-</p>
-<br>
+🌍 Proudly from Bangladesh<br>
 🎵 Musician | Composer | Tech Enthusiast</h4>
 
 <h4 align="center">
