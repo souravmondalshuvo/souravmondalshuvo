@@ -10,7 +10,7 @@ I enjoy building clean, functional web applications and learning backend & syste
 <div align="center">
  <!-- Typing Effect --> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=CSE+Student+at+BRAC+University;Aspiring+Java+Developer;UI%2FUX+Design+Enthusiast;Always+Trying+To+Learn+New+Tech+And+Language" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=CSE+Student+at+BRAC+University;Aspiring+Java+Developer;UI%2FUX+Design+Enthusiast;Always+Trying+To+Learn;New+Technologies+And+Languages" alt="Typing SVG" />
   </a>
 </div>
 
