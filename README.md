@@ -26,11 +26,11 @@ I build responsive web applications using HTML, CSS, and JavaScript while streng
 Personal responsive portfolio built using HTML, CSS, and JavaScript  
 🔗 https://souravmondalshuvo.github.io/Portfolio/
 
-🔹 **Restaurant Website** <br>
-Responsive restaurant UI with structured layout and interactive menu features<br>
-Tech: HTML, CSS, JavaScript  
-🔗 Repo: [https://github.com/souravmondalshuvo/Restaurant_Website]
+### 🔹 Restaurant Website
 
+Responsive restaurant UI with structured layout and interactive menu features.
+**Tech:** HTML, CSS, JavaScript  
+🔗 **Repo:** https://github.com/souravmondalshuvo/Restaurant_Website
 ---
 
 ### 📚 Currently Learning
