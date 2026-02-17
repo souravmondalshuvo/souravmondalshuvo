@@ -28,9 +28,7 @@ Personal responsive portfolio built using HTML, CSS, and JavaScript
 
 🔹 **Restaurant Website**  
 Responsive restaurant UI with structured layout and interactive menu features.
-
 Tech: HTML, CSS, JavaScript
-
 🔗 [https://github.com/souravmondalshuvo/Restaurant_Website]
 
 ---
