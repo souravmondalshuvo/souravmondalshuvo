@@ -9,7 +9,7 @@ I build responsive web applications using HTML, CSS, and JavaScript while streng
 <div align="center">
  <!-- Typing Effect --> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=CSE+Student+at+BRAC+University;Aspiring+Java+Developer;UI%2FUX+Design+Enthusiast;Always+Trying+To+Learn;New+Technologies+And+Languages" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Building Real-World Web Applications;Sharpening My DSA Skills;UI%2FUX+Design+Enthusiast;Preparing for Internships;Open to Collaboration;Learning Every Day" alt="Typing SVG" />
   </a>
 </div>
 
