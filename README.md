@@ -7,10 +7,7 @@ Building clean, responsive web applications</h4>
 I build responsive web applications using HTML, CSS, and JavaScript while strengthening my foundation in Java and Data Structures & Algorithms. Currently focused on becoming internship-ready.</h4>
 
 <div align="center">
- <!-- Typing Effect --> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=600&lines=Building Real-World Web Applications;Sharpening My DSA Skills;UI%2FUX+Design+Enthusiast;Preparing for Internships;Open to Collaboration;Learning Every Day" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BF7EC&center=true&vCenter=true&width=435&lines=Building+Real-World+Web+Applications;Sharpening+My+DSA+Skills;Preparing+for+Internships;Open+to+Collaboration;Learning+Every+Day" alt="Typing SVG" /></a>
 </div>
 
 ---
