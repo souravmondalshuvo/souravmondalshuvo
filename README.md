@@ -19,13 +19,14 @@ I build responsive web applications using HTML, CSS, and JavaScript while streng
 
 ### 🚀 Featured Projects
 
-🔹 **[Shohoj (সহজ)](https://souravmondalshuvo.github.io/Shohoj)** — BRACU Academic Tools Platform  
+🔹 **Shohoj (সহজ)** — BRACU Academic Tools Platform  
+
 A full-featured academic toolkit for BRAC University students. Includes a smart CGPA calculator with retake policy handling, a CGPA Playground (Grade Changer + Reverse Solver), PDF transcript import/export, GPA trend chart, and a complete course catalog spanning 758 courses across 16 departments.  
-`HTML` `CSS` `JavaScript` `jsPDF` `pdf.js` · 18 JS modules bundled into a single file
+🔗 [https://souravmondalshuvo.github.io/Shohoj]
 
 🔹 **Portfolio Website**  
 Personal responsive portfolio built using HTML, CSS, and JavaScript  
-🔗 [https://souravmondalshuvo.github.io/Portfolio/]
+🔗 [https://souravmondalshuvo.github.io/Portfolio]
 
 🔹 **Restaurant Website**  
 Responsive restaurant UI with structured layout and interactive menu features.<br>
