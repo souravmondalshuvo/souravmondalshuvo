@@ -1,6 +1,6 @@
 <h1 align="center">👋Hello, I'm Sourav Mondal Shuvo</h1>
 <h4 align="center">🎓 CSE Undergraduate at BRAC University <br> 
-Frontend Developer | Java & DSA Learner<br>
+Frontend Developer | UI/UX Designer<br>
 Building clean, responsive web applications</h4>
 
 <h4 align="center">
