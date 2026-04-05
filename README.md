@@ -20,7 +20,7 @@ I build responsive web applications using HTML, CSS, and JavaScript while streng
 ### 🚀 Featured Projects
 
 🔹 **Shohoj (সহজ) — BRACU Academic Tools Platform**   
-A full-featured academic toolkit for BRAC University students. Includes a smart CGPA calculator with retake policy handling, a CGPA Playground (Grade Changer + Reverse Solver), PDF transcript import/export, GPA trend chart, and a complete course catalog spanning 758 courses across 16 departments.  
+A full-featured academic toolkit for BRAC University students. Includes a smart CGPA calculator with retake policy handling, a CGPA Playground (Grade Changer + Reverse Solver), PDF transcript import/export, GPA trend chart, and a complete course catalog spanning 774 courses across 16 departments.  
 🔗 [https://souravmondalshuvo.github.io/Shohoj]
 
 🔹 **Portfolio Website**  
