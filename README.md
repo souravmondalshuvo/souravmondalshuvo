@@ -13,7 +13,7 @@ I build responsive web applications using HTML, CSS, and JavaScript while streng
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-(https://skillicons.dev/icons?i=html,css,js,java,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,git,linux)](https://skillicons.dev)
 
 ---
 
