@@ -48,9 +48,6 @@ Tech: HTML, CSS, JavaScript<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=souravmondalshuvo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=souravmondalshuvo&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/souravmondalshuvo.1024.official" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/souravmondalshuvo_official" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/souravmondalshuvo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+### Connect with me:
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>](https://fb.com/souravmondalshuvo.1024.official) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>](https://instagram.com/souravmondalshuvo_official) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>](https://linkedin.com/in/souravmondalshuvo)
