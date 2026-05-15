@@ -1,53 +1,110 @@
-<h1 align="center">👋Hello, I'm Sourav Mondal Shuvo</h1>
-<h4 align="center">🎓 CSE Undergraduate at BRAC University <br> 
-Frontend Developer | UI/UX Designer<br>
-Building clean, responsive web applications</h4>
+<h1 align="center">Sourav Mondal Shuvo</h1>
 
-<h4 align="center">
-I build responsive web applications using HTML, CSS, and JavaScript while strengthening my foundation in Java and Data Structures & Algorithms. Currently focused on becoming internship-ready.</h4>
+<p align="center">
+  <strong>CSE Undergraduate · BRAC University, Dhaka 🇧🇩</strong><br>
+  I build practical web tools that solve real problems for real students.
+</p>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BF7EC&center=true&vCenter=true&width=435&lines=Building+Real-World+Web+Applications;Sharpening+My+DSA+Skills;Preparing+for+Internships;Open+to+Collaboration;Learning+Every+Day" alt="Typing SVG" /></a>
-</div>
+<p align="center">
+  <a href="https://souravmondalshuvo.github.io/Shohoj">🌐 Shohoj</a> ·
+  <a href="https://souravmondalshuvo.github.io/Portfolio">💼 Portfolio</a> ·
+  <a href="https://linkedin.com/in/souravmondalshuvo">🔗 LinkedIn</a>
+</p>
 
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>&nbsp;<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>&nbsp;<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>&nbsp;<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>&nbsp;<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a></p>
-
----
-
-### 🚀 Featured Projects
-
-🔹 **Shohoj (সহজ) — BRACU Academic Tools Platform**   
-A full-featured academic toolkit for BRAC University students. Includes a smart CGPA calculator with retake policy handling, a CGPA Playground (Grade Changer + Reverse Solver), PDF transcript import/export, GPA trend chart, and a complete course catalog spanning 774 courses across 16 departments.  
-**Upcoming:** Authentication with university mail to sync data on cloud   
-🔗 [https://souravmondalshuvo.github.io/Shohoj]
-
-🔹 **Portfolio Website**  
-Personal responsive portfolio built using HTML, CSS, and JavaScript  
-🔗 [https://souravmondalshuvo.github.io/Portfolio]
-
-🔹 **Restaurant Website**  
-Responsive restaurant UI with structured layout and interactive menu features.<br>
-Tech: HTML, CSS, JavaScript<br>
-🔗 [https://github.com/souravmondalshuvo/Restaurant_Website]
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to-Internships-3BF7EC?style=for-the-badge&labelColor=0d1117" alt="Open to internships" />
+  <img src="https://img.shields.io/badge/Status-Shipping-22c55e?style=for-the-badge&labelColor=0d1117" alt="Status: shipping" />
+</p>
 
 ---
 
-### 📚 Currently Learning
-- Data Structures & Algorithms
-- Improving DSA problem solving  
-- Learning backend fundamentals with Java 
-- Clean UI/UX Design Principles
-- Building full-stack applications
+### 👋 About
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=souravmondalshuvo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=souravmondalshuvo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=souravmondalshuvo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=souravmondalshuvo&icon=0&color=0)](https://visitcount.itsvg.in)
+I'm a Computer Science undergrad at BRAC University focused on **shipping real software**, not just learning theory. Most of my recent work lives in **Shohoj** — an academic planning platform I built solo, end-to-end, now usable by BRACU students for CGPA calculation, semester planning, and exploring a 774-course catalog.
+
+I care about clean architecture, honest UX, and code that holds up under real-world use: XSS-hardened inputs, race-condition-free cloud sync, and a test suite that runs on every commit.
+
 ---
-### Connect with me:
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>](https://fb.com/souravmondalshuvo.1024.official) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>](https://instagram.com/souravmondalshuvo_official) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>](https://linkedin.com/in/souravmondalshuvo)
+### 🚀 Featured Project — Shohoj (সহজ)
+
+> **A comprehensive academic toolkit for BRAC University students. Built solo.**  
+> 🔗 [souravmondalshuvo.github.io/Shohoj](https://souravmondalshuvo.github.io/Shohoj)
+
+| Feature | Detail |
+| --- | --- |
+| 📚 **Course Catalog** | 774 courses across 16 departments with full prerequisite trees |
+| 🧮 **CGPA Calculator** | BRACU-accurate retake policy, A+ → F weighting, transcript-aware |
+| 📅 **Semester Planner** | Hard/soft prereq checking, credit validation (9–15), visual prereq tree |
+| 🔁 **CGPA Playground** | Grade Changer + Reverse Solver for "what-if" planning |
+| 📄 **Transcript Import** | PDF parsing via pdf.js with column-aware extraction |
+| 🔐 **Firebase Auth** | Restricted to `@g.bracu.ac.bd` accounts, 30-day sessions |
+| ☁️ **Cloud Sync** | Firestore with size-guarded rules and catch-all deny |
+| 🛡️ **Security** | XSS-hardened inputs, CSP meta tag, escape utilities across 7 files |
+| ✅ **Testing & CI** | 55 zero-dependency tests, GitHub Actions on every commit |
+
+**Stack:** Vanilla JavaScript (ES modules) · Firebase Auth & Firestore · pdf.js · jsPDF · GitHub Actions · Custom Python build pipeline
+
+---
+
+### 💼 Other Projects
+
+**[Restaurant Website — Chillox](https://github.com/souravmondalshuvo/Restaurant_Website)**  
+Branded restaurant site with structured layout and interactive menu. `HTML · CSS · JavaScript`
+
+**[Personal Portfolio](https://souravmondalshuvo.github.io/Portfolio)**  
+Clean, responsive portfolio — no frameworks, just fundamentals done right.
+
+---
+
+### 🛠️ Tech I Work With
+
+**Comfortable with**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+**Learning & growing**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-8A2BE2?style=flat)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=souravmondalshuvo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=souravmondalshuvo&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmondalshuvo&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</p>
+
+---
+
+### 🎯 Currently Working On
+
+- 🔧 Hardening Shohoj's Firebase sync (Safari SDK quirks, re-hydration race conditions)
+- 🧪 Expanding test coverage and tightening CI
+- 📈 Sharpening DSA fundamentals through structured practice
+- 📝 Writing up Shohoj as a tool paper for a software engineering / EdTech venue
+
+---
+
+### 📫 Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/souravmondalshuvo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+For internship inquiries or collaboration, LinkedIn is the fastest way to reach me.
+
+---
+
+<p align="center"><sub><i>Shipping over perfecting · Open to internships and collaboration</i></sub></p>
