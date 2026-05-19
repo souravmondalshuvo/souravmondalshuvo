@@ -19,7 +19,7 @@
 ---
 
 ### 👋 About
-
+  
 I'm a Computer Science undergrad at BRAC University focused on **shipping real software**, not just learning theory. Most of my recent work lives in **Shohoj** — an academic planning platform I built solo, end-to-end, now usable by BRACU students for CGPA calculation, semester planning, and exploring a 774-course catalog.
 
 I care about clean architecture, honest UX, and code that holds up under real-world use: XSS-hardened inputs, race-condition-free cloud sync, and a test suite that runs on every commit.
