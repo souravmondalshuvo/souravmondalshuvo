@@ -77,12 +77,14 @@ Clean, responsive portfolio — no frameworks, just fundamentals done right.
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img width="420" alt="GitHub stats"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=souravmondalshuvo&theme=tokyonight" />
+<p align="center">
+  <img width="720" alt="GitHub profile summary"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravmondalshuvo&theme=tokyonight" />
+</p>
 
-  <img width="420" alt="Top languages"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=souravmondalshuvo&theme=tokyonight" />
+<p align="center">
+  <img width="560" alt="GitHub streak"
+       src="https://streak-stats.demolab.com?user=souravmondalshuvo&theme=tokyonight&hide_border=true" />
 </p>
 
 <img width="520" alt="GitHub streak"
