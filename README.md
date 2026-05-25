@@ -77,12 +77,12 @@ Clean, responsive portfolio — no frameworks, just fundamentals done right.
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img width="720" alt="GitHub profile summary"
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravmondalshuvo&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
   <img width="560" alt="GitHub streak"
        src="https://streak-stats.demolab.com?user=souravmondalshuvo&theme=tokyonight&hide_border=true" />
 </p>
