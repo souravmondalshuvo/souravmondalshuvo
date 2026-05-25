@@ -79,20 +79,13 @@ A clean, responsive personal portfolio built with core frontend fundamentals.
 
 ---
 
-### 📊 GitHub Activity
+### 📌 Engineering Snapshot
 
-<p align="left">
-  <img width="720" alt="GitHub profile summary"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravmondalshuvo&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img width="350" alt="Repositories per language"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=souravmondalshuvo&theme=tokyonight" />
-  <img width="350" alt="Most committed languages"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=souravmondalshuvo&theme=tokyonight" />
-</p>
----
+- Built **Shohoj** solo as a real academic planning platform for BRAC University students
+- Designed and structured a **851-course catalog** with prerequisite-aware planning
+- Implemented **CGPA calculation, semester planning, transcript import, Firebase Auth, and Firestore sync**
+- Added **security improvements** including input escaping, safer rendering, and Firebase rule hardening
+- Uses **GitHub Actions** and automated testing to keep the project more reliable---
 
 ### 🎯 Currently Working On
 
