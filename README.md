@@ -87,10 +87,11 @@ A clean, responsive personal portfolio built with core frontend fundamentals.
 </p>
 
 <p align="left">
-  <img width="390" alt="Top languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmondalshuvo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="350" alt="Repositories per language"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=souravmondalshuvo&theme=tokyonight" />
+  <img width="350" alt="Most committed languages"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=souravmondalshuvo&theme=tokyonight" />
 </p>
-
 ---
 
 ### 🎯 Currently Working On
