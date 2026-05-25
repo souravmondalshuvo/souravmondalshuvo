@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <strong>CSE Undergraduate · BRAC University, Dhaka 🇧🇩</strong><br>
-  I build practical web tools that solve real problems for real students.
+  Building practical web tools that solve real problems for students.
 </p>
 
 <p align="center">  
@@ -19,47 +19,50 @@
 ---
 
 ### 👋 About
-  
-I'm a Computer Science undergrad at BRAC University focused on **shipping real software**, not just learning theory. Most of my recent work lives in **Shohoj** — an academic planning platform I built solo, end-to-end, now usable by BRACU students for CGPA calculation, semester planning, and exploring a 774-course catalog.
 
-I care about clean architecture, honest UX, and code that holds up under real-world use: XSS-hardened inputs, race-condition-free cloud sync, and a test suite that runs on every commit.
+I'm a Computer Science undergraduate at BRAC University focused on building real, usable software. Most of my recent work is centered around **Shohoj** — an academic planning platform I built solo, end-to-end, to help BRACU students calculate CGPA, plan semesters, and explore course information more easily.
+
+I care about clean UI, practical problem-solving, maintainable code, and building tools that are actually useful beyond assignments.
 
 ---
 
-### 🚀 Featured Project — Shohoj (সহজ)
+### 🚀 Featured Project — Shohoj সহজ
 
-> **A comprehensive academic toolkit for BRAC University students. Built solo.**  
+> **A student-focused academic toolkit for BRAC University students. Built solo, end-to-end.**  
 > 🔗 [souravmondalshuvo.github.io/Shohoj](https://souravmondalshuvo.github.io/Shohoj)
 
 | Feature | Detail |
 | --- | --- |
-| 📚 **Course Catalog** | 774 courses across 16 departments with full prerequisite trees |
-| 🧮 **CGPA Calculator** | BRACU-accurate retake policy, A+ → F weighting, transcript-aware |
-| 📅 **Semester Planner** | Hard/soft prereq checking, credit validation (9–15), visual prereq tree |
-| 🔁 **CGPA Playground** | Grade Changer + Reverse Solver for "what-if" planning |
-| 📄 **Transcript Import** | PDF parsing via pdf.js with column-aware extraction |
-| 🔐 **Firebase Auth** | Restricted to `@g.bracu.ac.bd` accounts, 30-day sessions |
-| ☁️ **Cloud Sync** | Firestore with size-guarded rules and catch-all deny |
-| 🛡️ **Security** | XSS-hardened inputs, CSP meta tag, escape utilities across 7 files |
-| ✅ **Testing & CI** | 55 zero-dependency tests, GitHub Actions on every commit |
+| 📚 **Course Catalog** | 774 courses across 16 departments with prerequisite information |
+| 🧮 **CGPA Calculator** | BRACU-style grade calculation with retake-aware planning |
+| 📅 **Semester Planner** | Credit validation, prerequisite checking, and structured course planning |
+| 🔁 **CGPA Playground** | Grade Changer and Reverse Solver for “what-if” academic planning |
+| 📄 **Transcript Import** | PDF parsing with transcript-aware extraction |
+| 🔐 **Firebase Auth** | Authentication restricted to BRACU student accounts |
+| ☁️ **Cloud Sync** | Firestore-based academic data syncing |
+| 🛡️ **Security Improvements** | Input escaping, safer rendering, and Firebase rule hardening |
+| ✅ **Testing & CI** | Automated tests with GitHub Actions |
 
-**Stack:** Vanilla JavaScript (ES modules) · Firebase Auth & Firestore · pdf.js · jsPDF · GitHub Actions · Custom Python build pipeline
+**Stack:** Vanilla JavaScript · HTML · CSS · Firebase Auth · Firestore · pdf.js · jsPDF · GitHub Actions
 
 ---
 
 ### 💼 Other Projects
 
 **[Restaurant Website — Chillox](https://github.com/souravmondalshuvo/Restaurant_Website)**  
-Branded restaurant site with structured layout and interactive menu. `HTML · CSS · JavaScript`
+A branded restaurant website with structured layout, responsive sections, and interactive menu elements.  
+`HTML · CSS · JavaScript`
 
 **[Personal Portfolio](https://souravmondalshuvo.github.io/Portfolio)**  
-Clean, responsive portfolio — no frameworks, just fundamentals done right.
+A clean, responsive personal portfolio built with core frontend fundamentals.  
+`HTML · CSS · JavaScript`
 
 ---
 
 ### 🛠️ Tech I Work With
 
-**Comfortable with**  
+**Comfortable with**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -67,15 +70,16 @@ Clean, responsive portfolio — no frameworks, just fundamentals done right.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-**Learning & growing**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+**Learning & growing**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-8A2BE2?style=flat)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="left">
   <img width="720" alt="GitHub profile summary"
@@ -83,29 +87,34 @@ Clean, responsive portfolio — no frameworks, just fundamentals done right.
 </p>
 
 <p align="left">
-  <img width="560" alt="GitHub streak"
-       src="https://streak-stats.demolab.com?user=souravmondalshuvo&theme=tokyonight&hide_border=true" />
+  <img width="390" alt="Top languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmondalshuvo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🎯 Currently Working On
 
-- 🔧 Hardening Shohoj's Firebase sync (Safari SDK quirks, re-hydration race conditions)
-- 🧪 Expanding test coverage and tightening CI
-- 📈 Sharpening DSA fundamentals through structured practice
-- 📝 Writing up Shohoj as a tool paper for a software engineering / EdTech venue
+- 🔧 Improving Shohoj's Firebase sync and academic planning flow
+- 🧪 Expanding test coverage and project reliability
+- 📈 Strengthening Data Structures and Algorithms with Java
+- 📝 Preparing Shohoj for a stronger portfolio and possible academic write-up
+- 🚀 Improving frontend quality, UI polish, and user experience
 
 ---
 
 ### 📫 Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/souravmondalshuvo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/souravmondalshuvo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-For internship inquiries or collaboration, LinkedIn is the fastest way to reach me.
+For internship inquiries, collaboration, or project discussions, LinkedIn is the fastest way to reach me.
 
 ---
 
-<p align="center"><sub><i>Shipping over perfecting · Open to internships and collaboration</i></sub></p>
+<p align="center">
+  <sub><i>Shipping practical software · Learning deeply · Open to internships and collaboration</i></sub>
+</p>
