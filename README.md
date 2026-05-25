@@ -87,8 +87,6 @@ Clean, responsive portfolio — no frameworks, just fundamentals done right.
        src="https://streak-stats.demolab.com?user=souravmondalshuvo&theme=tokyonight&hide_border=true" />
 </p>
 
-<img width="520" alt="GitHub streak"
-     src="https://streak-stats.demolab.com?user=souravmondalshuvo&theme=tokyonight&hide_border=true" />
 ---
 
 ### 🎯 Currently Working On
