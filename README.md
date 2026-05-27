@@ -33,7 +33,7 @@ I care about clean UI, practical problem-solving, maintainable code, and buildin
 
 | Feature | Detail |
 | --- | --- |
-| 📚 **Course Catalog** | 774 courses across 16 departments with prerequisite information |
+| 📚 **Course Catalog** | 851 courses across 16 departments with prerequisite information |
 | 🧮 **CGPA Calculator** | BRACU-style grade calculation with retake-aware planning |
 | 📅 **Semester Planner** | Credit validation, prerequisite checking, and structured course planning |
 | 🔁 **CGPA Playground** | Grade Changer and Reverse Solver for “what-if” academic planning |
