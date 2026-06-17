@@ -1,6 +1,6 @@
-<div align="center"> 
+<div align="center">
 
-<!-- Animated header banner --> 
+<!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:14b8a6&height=200&section=header&text=Sourav%20Mondal%20Shuvo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Solo%20Full-Stack%20Developer%20%7C%20CSE%20%40%20BRAC%20University&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 <!-- Typing SVG -->
@@ -131,13 +131,17 @@ const sourav = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧩 Engineering Highlights
 
-<div align="center">
+Behind Shohoj's clean UI is a fair amount of real engineering. A few decisions I'm proud of:
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=souravmondalshuvo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+- 🏗️ **Modular architecture** — Refactored a single monolithic script into **16 ES modules**, bundled into one deployable file via a custom Python build step.
+- 🛡️ **Security audit** — Hardened against XSS with consistent input escaping, added a Content-Security-Policy and Subresource-Integrity hashes, and tightened Firebase access rules.
+- 🐛 **Hard bug fixes** — Resolved Firestore re-hydration race conditions and a Safari-only Firebase SDK error that only surfaced on real devices.
+- ✅ **CI from day one** — A **55-test** suite runs on every push via GitHub Actions, so regressions get caught before they ship.
+- 🔐 **Scoped auth** — Firebase Auth locked to verified BRACU student accounts, with custom session handling and modals.
 
-</div>
+> *I treat side projects like production software — tests, security, and maintainability included.*
 
 ---
 
