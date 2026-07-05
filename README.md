@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated header banner -->
+<!-- Animated header banner --> 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:14b8a6&height=200&section=header&text=Sourav%20Mondal%20Shuvo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Solo%20Full-Stack%20Developer%20%7C%20CSE%20%40%20BRAC%20University&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 <!-- Typing SVG -->
