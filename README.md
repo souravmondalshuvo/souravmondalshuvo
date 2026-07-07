@@ -49,7 +49,7 @@ const sourav = {
 
 <div align="center">
 
-![Courses](https://img.shields.io/badge/Courses-851-2DD4BF?style=for-the-badge&labelColor=0d1117)
+![Courses](https://img.shields.io/badge/Courses-857-2DD4BF?style=for-the-badge&labelColor=0d1117)
 &nbsp;
 ![Departments](https://img.shields.io/badge/Departments-16-14b8a6?style=for-the-badge&labelColor=0d1117)
 &nbsp;
