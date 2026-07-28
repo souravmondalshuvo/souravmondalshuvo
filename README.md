@@ -162,7 +162,7 @@ Behind Shohoj's clean UI is a fair amount of real engineering. A few decisions I
 <a href="https://linkedin.com/in/souravmondalshuvo">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://souravmondalshuvo.github.io/Portfolio">
+<a href="https://souravmondalshuvo.com">
   <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
