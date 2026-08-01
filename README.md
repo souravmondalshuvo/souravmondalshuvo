@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/souravmondalshuvo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&lines=Solo+full-stack+developer+%F0%9F%9A%80;Building+Shohoj+for+BRACU+students+%F0%9F%8E%93;Vanilla+JS+%C2%B7+Firebase+%C2%B7+GitHub+Actions+%E2%9A%99%EF%B8%8F;Shipping+tools+people+actually+use+%F0%9F%93%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&lines=Full-stack+developer+%F0%9F%9A%80;Building+Shohoj+for+BRACU+students+%F0%9F%8E%93;Vanilla+JS+%C2%B7+Firebase+%C2%B7+GitHub+Actions+%E2%9A%99%EF%B8%8F;Shipping+tools+people+actually+use+%F0%9F%93%A6" alt="Typing SVG" />
 </a>
 
 <br/>
