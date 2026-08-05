@@ -24,7 +24,7 @@
 <!-- NEW: quick navigation -->
 <a href="#-featured-project--shohoj-সহজ"><img src="https://img.shields.io/badge/→_Shohoj-0d1117?style=flat-square&labelColor=0d1117&color=2dd4bf" alt="Shohoj"/></a>
 &nbsp;
-<a href="#-friday--privacy-first-desktop-ai-assistant"><img src="https://img.shields.io/badge/→_FRIDAY-0d1117?style=flat-square&labelColor=0d1117&color=2dd4bf" alt="FRIDAY"/></a>
+<a href="#-friday--privacy-first-desktop-ai-assistant"><img src="https://img.shields.io/badge/→_F.R.I.D.A.Y.-0d1117?style=flat-square&labelColor=0d1117&color=2dd4bf" alt="FRIDAY"/></a>
 &nbsp;
 <a href="#-the-signal--portfolio-site"><img src="https://img.shields.io/badge/→_The_Signal-0d1117?style=flat-square&labelColor=0d1117&color=2dd4bf" alt="The Signal"/></a>
 &nbsp;
@@ -141,7 +141,7 @@ Every request that touches student data passes through a Worker that verifies th
 
 ---
 
-## 🤖 FRIDAY — Privacy-First Desktop AI Assistant
+## 🤖 F.R.I.D.A.Y. — Privacy-First Desktop AI Assistant
 
 > **A cross-platform desktop assistant that reads the room without ever storing your face.**
 
