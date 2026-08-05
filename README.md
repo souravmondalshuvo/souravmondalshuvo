@@ -59,14 +59,14 @@ const sourav = {
 ## 🚀 Featured Project — Shohoj সহজ
 
 > **A student-focused academic toolkit for BRAC University students. Built solo, end-to-end.**
-> 🔗 **[shohoj.souravmondalshuvo.com](https://shohoj.souravmondalshuvo.com)** · 🪞 **[Mirror](https://souravmondalshuvo.github.io/Shohoj)**
+> 🔗 **[souravmondalshuvo.com](https://souravmondalshuvo.com)** · 🪞 **[Mirror](https://souravmondalshuvo.github.io/Shohoj)**
 
 <div align="center">
 
 <!-- NEW: live CI status — replace ci.yml with your actual workflow filename -->
 [![CI](https://img.shields.io/github/actions/workflow/status/souravmondalshuvo/Shohoj/ci.yml?branch=main&style=for-the-badge&label=CI&labelColor=0d1117&color=22c55e)](https://github.com/souravmondalshuvo/Shohoj/actions)
 &nbsp;
-![Courses](https://img.shields.io/badge/Courses-851-2DD4BF?style=for-the-badge&labelColor=0d1117)
+![Courses](https://img.shields.io/badge/Courses-857-2DD4BF?style=for-the-badge&labelColor=0d1117)
 &nbsp;
 ![Departments](https://img.shields.io/badge/Departments-16-14b8a6?style=for-the-badge&labelColor=0d1117)
 &nbsp;
@@ -83,7 +83,7 @@ const sourav = {
 
 | Feature | Detail |
 | --- | --- |
-| 📚 **Course Catalog** | 851 courses across 16 departments with prerequisite information |
+| 📚 **Course Catalog** | 857 courses across 16 departments with prerequisite information |
 | 🧮 **CGPA Calculator** | BRACU-style grade calculation with retake-aware planning |
 | 📅 **Semester Planner** | Credit validation, prerequisite checking, and structured course planning |
 | 🔁 **CGPA Playground** | Grade Changer and Reverse Solver for "what-if" academic planning |
