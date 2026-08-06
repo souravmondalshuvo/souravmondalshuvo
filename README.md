@@ -44,7 +44,7 @@ I care about clean UI, practical problem-solving, maintainable code, and shippin
 
 ```javascript
 const sourav = {
-  role:       "Solo full-stack developer",
+  role:       "Full-stack developer",
   studying:   "BSc in CSE @ BRAC University",
   building:   ["Shohoj — academic planning for BRACU students",
                "FRIDAY — privacy-first desktop AI assistant"],
